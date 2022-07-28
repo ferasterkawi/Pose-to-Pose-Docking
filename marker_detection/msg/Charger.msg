@@ -1,0 +1,7 @@
+float32 charger_x
+float32 charger_y
+float32 charger_rotation
+int32 id
+float32 docking_point_x
+float32 docking_point_y
+float32 docking_point_rotation
